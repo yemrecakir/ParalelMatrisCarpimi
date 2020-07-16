@@ -1,0 +1,14 @@
+﻿  Blockmatrixopenmp.cpp
+C:\Users\yunus\source\repos\Blockmatrixopenmp\Blockmatrixopenmp\Blockmatrixopenmp.cpp(142,12): warning C4101: 'k': unreferenced local variable
+C:\Users\yunus\source\repos\Blockmatrixopenmp\Blockmatrixopenmp\Blockmatrixopenmp.cpp(142,9): warning C4101: 'j': unreferenced local variable
+C:\Users\yunus\source\repos\Blockmatrixopenmp\Blockmatrixopenmp\Blockmatrixopenmp.cpp(142,6): warning C4101: 'i': unreferenced local variable
+C:\Users\yunus\source\repos\Blockmatrixopenmp\Blockmatrixopenmp\Blockmatrixopenmp.cpp(162,12): warning C4101: 'k': unreferenced local variable
+C:\Users\yunus\source\repos\Blockmatrixopenmp\Blockmatrixopenmp\Blockmatrixopenmp.cpp(162,9): warning C4101: 'j': unreferenced local variable
+C:\Users\yunus\source\repos\Blockmatrixopenmp\Blockmatrixopenmp\Blockmatrixopenmp.cpp(162,6): warning C4101: 'i': unreferenced local variable
+C:\Users\yunus\source\repos\Blockmatrixopenmp\Blockmatrixopenmp\Blockmatrixopenmp.cpp(230,12): warning C4101: 'k': unreferenced local variable
+C:\Users\yunus\source\repos\Blockmatrixopenmp\Blockmatrixopenmp\Blockmatrixopenmp.cpp(230,9): warning C4101: 'j': unreferenced local variable
+C:\Users\yunus\source\repos\Blockmatrixopenmp\Blockmatrixopenmp\Blockmatrixopenmp.cpp(230,6): warning C4101: 'i': unreferenced local variable
+C:\Users\yunus\source\repos\Blockmatrixopenmp\Blockmatrixopenmp\Blockmatrixopenmp.cpp(250,12): warning C4101: 'k': unreferenced local variable
+C:\Users\yunus\source\repos\Blockmatrixopenmp\Blockmatrixopenmp\Blockmatrixopenmp.cpp(250,9): warning C4101: 'j': unreferenced local variable
+C:\Users\yunus\source\repos\Blockmatrixopenmp\Blockmatrixopenmp\Blockmatrixopenmp.cpp(250,6): warning C4101: 'i': unreferenced local variable
+  Blockmatrixopenmp.vcxproj -> C:\Users\yunus\source\repos\Blockmatrixopenmp\x64\Debug\Blockmatrixopenmp.exe
